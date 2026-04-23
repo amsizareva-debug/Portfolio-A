@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(244, 214, 159);
+}
+
+h1 {
+    background-color: #FF9273; 
+    height: 50px;
+     padding-top: 15px;
+     padding-left: 60px;
+     border-radius: 50px;
+}
+
+
